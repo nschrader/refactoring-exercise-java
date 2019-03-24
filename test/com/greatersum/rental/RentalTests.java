@@ -1,7 +1,8 @@
 package com.greatersum.rental;
 
+import com.greatersum.rental.data.Customer;
+import com.greatersum.rental.data.MovieRental;
 import org.approvaltests.Approvals;
-import org.junit.Assert;
 import org.junit.Test;
 
 import java.util.Arrays;
